@@ -1,6 +1,6 @@
 # Jonas Wiger
 
-Jeg bygger nettjenester på norske åpne data.
+Bygger for det meste nettjenester på norske åpne data :)
 
 ## Smilefjeskartet
 
