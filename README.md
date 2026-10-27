@@ -2,6 +2,14 @@
 
 Bygger for det meste nettjenester på norske åpne data :)
 
+## Varde
+
+[![Varde — hele hverdagen, ett system. Skole, jobb, trening og AI gjennom MCP.](projects/varde/assets/varde-banner.svg)](projects/varde/README.md)
+
+**[Varde](projects/varde/README.md)** startet som en øvingsoversikt og har blitt et personlig system for skole, jobb, trening og helse. Henter automatisk fra CalOne, Canvas, Tidsbanken, Hevy, Garmin og Withings, foreslår leseøkter rundt avtalene og lar ChatGPT og Claude lese og reorganisere kalenderen gjennom MCP. En AI-vaktmester kan foreslå parserrettelser som pull requests når kildene endrer seg.
+
+Next.js · TypeScript · PostgreSQL · MCP · GitHub Actions · [les prosjektpresentasjonen](projects/varde/README.md) · kildekoden er privat
+
 ## Smilefjeskartet
 
 [![Smilefjeskartet: kart over Norge med klynger av smilefjes](images/smilefjeskartet.jpg)](https://smilefjeskartet.no)
